@@ -1,0 +1,71 @@
+[71] Los números enteros incluyen a los negativos y positivos.
+1. Una función es continua en un punto si existe el límite en ese punto, y coincide con el valor de la función.
+2. Una función es derivable si su derivada existe en todos los puntos de su dominio.
+3. El teorema del valor medio garantiza que existe un punto donde la derivada coincide con la pendiente de la secante.
+4. La integral definida representa el área bajo la curva entre dos puntos.
+5. La integral impropia se usa cuando los límites son infinitos o la función tiene una discontinuidad.
+6. Una serie converge si la suma infinita de sus términos tiene un valor finito.
+7. El criterio de la razón permite determinar la convergencia de series infinitas.
+8. Una sucesión es convergente si se acerca a un número real al crecer el índice.
+9. El análisis de variable real estudia funciones reales de variable real usando topología y cálculo.
+10. Un conjunto es compacto si es cerrado y acotado en ℝⁿ.
+11. La inteligencia artificial es la capacidad de una máquina para imitar funciones cognitivas humanas.
+12. El aprendizaje automático es una rama de la IA que permite a las máquinas aprender de los datos.
+13. El deep learning usa redes neuronales profundas para resolver tareas complejas como visión por computadora.
+14. Una red neuronal artificial se inspira en el cerebro humano y consiste en capas de nodos conectados.
+15. ChatGPT es un modelo de lenguaje basado en arquitectura Transformer.
+16. El procesamiento de lenguaje natural permite a las computadoras entender y generar lenguaje humano.
+17. Un modelo generativo puede crear datos nuevos similares a los datos de entrenamiento.
+18. Un modelo discriminativo distingue entre diferentes clases de datos.
+19. El aprendizaje reforzado entrena agentes a maximizar recompensas tomando decisiones.
+20. Stable Diffusion es un modelo de generación de imágenes basado en difusión latente.
+21. La ciencia de datos combina estadística, programación y conocimiento del dominio para obtener valor de los datos.
+22. El análisis exploratorio de datos busca descubrir patrones y relaciones antes de modelar.
+23. La regresión lineal predice una variable continua usando una combinación lineal de variables independientes.
+24. El análisis de componentes principales reduce la dimensión de los datos preservando la mayor varianza posible.
+25. El modelo de regresión logística se usa para variables binarias como "sí" o "no".
+26. Un p-valor pequeño indica evidencia contra la hipótesis nula.
+27. El intervalo de confianza representa un rango probable para un parámetro poblacional.
+28. La media, mediana y moda son medidas de tendencia central.
+29. La varianza y desviación estándar miden la dispersión de los datos.
+30. Un gráfico de caja muestra la mediana, cuartiles y posibles outliers.
+31. K-means es un algoritmo no supervisado que agrupa puntos por cercanía a centroides.
+32. El algoritmo de árboles de decisión divide los datos en ramas según características.
+33. Un modelo Naive Bayes asume independencia entre características para clasificación rápida.
+34. El F1-score combina precisión y recall en una sola métrica.
+35. La matriz de confusión muestra verdaderos positivos, falsos negativos, etc.
+36. El AUC-ROC mide qué tan bien un modelo separa clases.
+37. El z-score mide cuántas desviaciones estándar se aleja un valor de la media.
+38. La normalización convierte los datos a una misma escala, típicamente [0, 1].
+39. La estandarización cambia la media a 0 y la desviación estándar a 1.
+40. Un pipeline en machine learning encadena pasos como preprocesamiento, modelado y validación.
+41. En astronomía, un exoplaneta es un planeta que orbita una estrella distinta al Sol.
+42. Las estrellas se clasifican por tipo espectral: O, B, A, F, G, K, M.
+43. Un año luz es la distancia que recorre la luz en un año: ≈ 9.46 × 10¹² km.
+44. La Vía Láctea es la galaxia donde se encuentra nuestro sistema solar.
+45. Un agujero negro es una región del espacio con gravedad tan intensa que nada puede escapar.
+46. El telescopio James Webb permite observar el universo temprano con gran resolución infrarroja.
+47. Un cúmulo globular es un grupo esférico de estrellas densamente agrupadas.
+48. Un espectroscopio separa la luz en sus longitudes de onda para analizar su composición.
+49. La astrobiología estudia el origen, evolución y posibilidad de vida en el universo.
+50. El método de tránsito detecta exoplanetas observando caídas en el brillo estelar.
+51. Una imagen astronómica puede analizarse con aprendizaje profundo para detectar estructuras.
+52. Astropy es una biblioteca de Python para análisis de datos astronómicos.
+53. El redshift cosmológico mide el corrimiento al rojo de galaxias lejanas, indicador de expansión.
+54. Un satélite CubeSat es un nanosatélite modular de tamaño estándar usado en investigación.
+55. La altitud de un satélite afecta su órbita y cobertura de observación.
+56. Un payload es la carga útil científica que lleva un satélite.
+57. El diseño experimental controla variables para obtener inferencias válidas.
+58. El diseño completamente aleatorizado asigna tratamientos al azar sin bloques.
+59. Un diseño en bloques agrupa experimentalmente sujetos similares antes de asignar tratamientos.
+60. El efecto de tratamiento mide cuánto influye una condición experimental en la variable respuesta.
+61. El aprendizaje supervisado usa ejemplos con etiqueta para entrenar modelos predictivos.
+62. El aprendizaje no supervisado busca estructuras ocultas sin etiquetas.
+63. El clustering agrupa datos similares según sus características.
+64. El aprendizaje por refuerzo se basa en tomar acciones que maximicen recompensas en el tiempo.
+65. El descenso de gradiente minimiza funciones de pérdida ajustando parámetros iterativamente.
+66. Mini-batch gradient descent actualiza pesos con pequeños lotes de datos para eficiencia.
+67. ReLU es una función de activación que mejora el entrenamiento al evitar saturación.
+68. Softmax convierte salidas numéricas en probabilidades que suman uno.
+69. Dropout es una técnica de regularización que evita el sobreajuste desactivando neuronas aleatoriamente.
+70. La regularización L2 penaliza grandes coeficientes en los modelos para evitar complejidad.
